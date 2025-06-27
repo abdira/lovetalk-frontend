@@ -1,0 +1,24 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#6155
+    [34mall[39m: [
+      [34;4mApp\Models\Session[39;24m {#6154
+        [34mid[39m: [35m1[39m,
+        [34mclient_id[39m: [35m4[39m,
+        [34mcounselor_id[39m: [35m2[39m,
+        [34mtype[39m: "[32mvideo[39m",
+        [34mstatus[39m: "[32mscheduled[39m",
+        [34mscheduled_at[39m: "[32m2025-06-30 14:00:00[39m",
+        [34mstarted_at[39m: [36mnull[39m,
+        [34mended_at[39m: [36mnull[39m,
+        [34mduration_minutes[39m: [36mnull[39m,
+        [34mamount[39m: "[32m50.00[39m",
+        [34mclient_notes[39m: [36mnull[39m,
+        [34mcounselor_notes[39m: [36mnull[39m,
+        [34mjitsi_room_id[39m: "[32mlovetalk-UvKgg20zZapH[39m",
+        [34mchat_room_id[39m: "[32mchat-kbAPHkBpwteh[39m",
+        [34msession_metadata[39m: [36mnull[39m,
+        [34mcreated_at[39m: "[32m2025-06-25 04:39:36[39m",
+        [34mupdated_at[39m: "[32m2025-06-25 04:39:36[39m",
+      },
+    ],
+  }
+

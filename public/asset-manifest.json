@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45ef0ac1.css",
+    "main.js": "/static/js/main.c722b52a.js",
+    "static/js/453.1a161d6d.chunk.js": "/static/js/453.1a161d6d.chunk.js",
+    "static/media/pexels-vera-arsic-304265-984923.jpg": "/static/media/pexels-vera-arsic-304265-984923.a71a9ff4eb223fe399f2.jpg",
+    "index.html": "/index.html",
+    "main.45ef0ac1.css.map": "/static/css/main.45ef0ac1.css.map",
+    "main.c722b52a.js.map": "/static/js/main.c722b52a.js.map",
+    "453.1a161d6d.chunk.js.map": "/static/js/453.1a161d6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ef0ac1.css",
+    "static/js/main.c722b52a.js"
+  ]
+}
